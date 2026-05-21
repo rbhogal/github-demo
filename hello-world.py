@@ -1,2 +1,3 @@
-name = "Rohit"
-print(f"Hello {name}")
+first = "Rohit"
+last = "Bhogal"
+print(f"Hello {first} {last}")
